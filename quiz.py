@@ -1,7 +1,7 @@
 def division (division):
 	division = []
 	for number in numbers:
-		x=/3
+		x/=3
 		division.append(x)
 		print(division)
 
